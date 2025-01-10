@@ -42,7 +42,7 @@ Srijan Home School is a comprehensive platform designed to manage student perfor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshrajshs/srijan-home-school.git
+   git clone https://github.com/kumaranish123/NGO-SHS
    ```
 
 2. Navigate to the project directory:
